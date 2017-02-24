@@ -1,0 +1,17 @@
+// Variables
+
+@font-face { font-family: Markus; src: url('font/Markus.otf'); }
+@font-face { font-family: Dosis;
+    src: url(font/Dosis-Light.otf) format('opentype'),
+        url(font/Dosis-Bold.otf) format('opentype'),
+        url(font/Dosis-Medium.otf) format('opentype'),
+        url(font/Dosis-Regular.otf) format('opentype');
+}
+
+$base-font-size: 1rem;
+$base-font-weight: 300;
+$font-color-primary: #ec8301; 
+$font-color-secondary: #202020;
+
+$section-color: #dcdcdc;
+$section-text-color: #868a8c;

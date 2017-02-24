@@ -1,0 +1,15 @@
+{
+  "name": "project",
+  "version": "0.0.1",
+  "description": "Filterlizr app for my portfolio section",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
